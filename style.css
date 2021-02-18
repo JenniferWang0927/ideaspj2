@@ -1,0 +1,42 @@
+@font-face {
+   
+    font-family: "Exo2ExtraBoldItalic";
+    src: url("./assets/Exo2ExtraBoldItalic-gaD6.ttf") format("ttf"); 
+  }
+.lain1{
+    
+    width:100rem;
+    padding: 0rem;
+    display:block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+.lain2{
+    size: 100rem;
+    width:10rem;
+    padding: 50rem;
+    display:none;
+  margin-left: auto;
+  margin-right: auto;
+}
+p{
+    font-family: cursive;
+    text-align: center;
+    color: aqua;
+    font-size: 2rem;
+}
+h1{
+    font-family:"Exo2ExtraBoldItalic";
+    text-align: center;
+    font-size: 3rem;
+    padding-top: 10rem;
+}
+h2{
+    font-family:"Exo2ExtraBoldItalic";
+    text-align: center;
+    font-size: 3rem;
+    padding-top: ;
+}
